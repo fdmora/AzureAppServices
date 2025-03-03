@@ -1,0 +1,7 @@
+[
+    { "nombre": "Nicaragua", "codigo": "NI" },
+    { "nombre": "Costa Rica", "codigo": "CR" },
+    { "nombre": "Honduras", "codigo": "HN" },
+    { "nombre": "El Salvador", "codigo": "SV" },
+    { "nombre": "Guatemala", "codigo": "GT" }
+]
