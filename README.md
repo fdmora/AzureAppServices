@@ -5,4 +5,4 @@ Azure github Actions.
 
 ## License
 
-GPL-3.0-1
+GPL-3.0-1 
